@@ -1,5 +1,6 @@
 nav iframe {
     overflow: hidden;
+    fromeBorder: "0";
 }
 
 body {
