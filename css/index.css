@@ -1,0 +1,18 @@
+nav iframe {
+    border: None;
+    width: 100%;
+}
+
+body {
+    background-color: rgb(170, 186, 158);
+    font-family: Helvetica;
+}
+
+p {
+    color: rgb(65, 72, 51);
+    font-size: 16px;
+}
+h1 {
+    font-size: 20px;
+    font-color: rgb(143, 114, 46);
+}
