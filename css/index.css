@@ -1,6 +1,7 @@
 nav iframe {
     border: None;
     width: 100%;
+    overflow: hidden;
 }
 
 body {
