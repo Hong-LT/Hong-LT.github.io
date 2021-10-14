@@ -11,3 +11,7 @@ h1 {
     font-size: 20px;
     font-color: rgb(143, 114, 46);
 }
+
+table {
+    border-width: 3px;
+}
